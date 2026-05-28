@@ -1,0 +1,17 @@
+{
+  "name": "MedTracker — Control de Medicamentos",
+  "short_name": "MedTracker",
+  "description": "Aplicación personal de recordatorios de medicamentos postquirúrgicos. Controla tus tomas con alertas visuales, sonoras y de vibración.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait-primary",
+  "background_color": "#f0f4f8",
+  "theme_color": "#1d4ed8",
+  "lang": "es-MX",
+  "categories": ["health", "medical", "lifestyle", "productivity"],
+  "icons": [
+    { "src": "icon-128.png", "sizes": "128x128", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
